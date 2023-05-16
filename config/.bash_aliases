@@ -1,3 +1,3 @@
-if [ -f ~/repos/WyLinux/.bash_aliases ]; then
-    . ~/repos/WyLinux/.bash_aliases
+if [ -f ~/repos/WyLinux/.jdw_aliases ]; then
+    . ~/repos/WyLinux/.jdw_aliases
 fi
