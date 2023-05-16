@@ -1,3 +1,3 @@
 alias ls='ls -la'
 alias cls=clear
-alias hi='echo hello'
+alias hi='echo hello, WyLinux is setup!'
