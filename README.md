@@ -16,3 +16,10 @@ curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo 
 && sudo apt update \
 && sudo apt install gh -y
 ```
+## Installs
+
+``` bash
+apt install git
+apt install gh
+sudo apt-get install openssh-server
+```
