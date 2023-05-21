@@ -2,7 +2,10 @@
 
 
 ``` bash
-git clone https://github.com/jwyckoff/WyLinux.git wy
+git clone https://github.com/jwyckoff/WyLinux.git ~/wy
+chmod +x ~/wy/*.sh
+. add-alias.sh
+
 ```
 
 ``` bash
