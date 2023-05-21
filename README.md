@@ -33,3 +33,8 @@ git config --global user.name "Jason Wyckoff"
 git config --global user.email "jason@jasonwyckoff.com"
 echo '... done.'
 ```
+## Install Dev Tools
+
+``` bash
+sudo apt install -y gh
+```
