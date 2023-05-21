@@ -2,9 +2,10 @@
 
 
 ``` bash
+apt install git
 git clone https://github.com/jwyckoff/WyLinux.git ~/wy
 chmod +x ~/wy/*.sh
-. add-alias.sh
+. ~/wy/add-alias.sh
 
 ```
 
