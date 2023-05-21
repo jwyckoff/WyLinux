@@ -1,4 +1,4 @@
-# WyLinuxUtils
+# WyLinux
 
 
 ``` bash
