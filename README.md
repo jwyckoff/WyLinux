@@ -61,3 +61,16 @@ sudo apt update
 sudo apt install -y google-chrome-stable
 
 ```
+
+
+## Install XRDP
+(from [here](https://linux.how2shout.com/ubuntu-22-04-remote-desktop-access-from-windows-11-or-10/#:~:text=Connect%20Ubuntu%2022.,-o4%20remotely%20using&text=There%20type%20%E2%80%9CRemote%20Desktop%20Connection,on%20the%20%E2%80%9CConnect%E2%80%9D%20button.))
+``` bash
+sudo apt install xrdp
+sudo systemctl start xrdp
+sudo systemctl enable xrdp
+systemctl status xrdp
+
+sudo ufw allow from any to any port 3389 proto tcp
+
+```
