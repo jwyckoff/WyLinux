@@ -25,6 +25,9 @@ apt install gh
 sudo apt-get install openssh-server
 ```
 
+## Install Oh-my-posh
+See [https://github.com/jwyckoff/WyPosh/](https://github.com/jwyckoff/WyPosh/blob/main/README.md#install-on-linux)
+
 ## Install git
 ``` bash
 sudo apt install -y git
