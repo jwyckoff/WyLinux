@@ -41,7 +41,12 @@ echo '... done.'
 ``` bash
 sudo apt install -y gh
 sudo apt install -y google-chrome-stable
+```
 
+## Install SSH Server
+
+``` bash
+sudo apt install -y openssh-server
 
 ```
 
