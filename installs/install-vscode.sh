@@ -1,12 +1,4 @@
-sudo apt install -y git
-echo 'Adding global user info to git...'
-git config --global user.name "Jason Wyckoff"
-git config --global user.email "jason@jasonwyckoff.com"
-echo '... done.'
-$()$(
-    github.c
-    ## 4. Install Dev Tools
-
-)$() bash
-sudo apt install -y gh
-sudo apt install -y google-chrome-stable
+sudo apt install -y software-properties-common apt-transport-https wget
+wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add -
+sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main"
+sudo apt install code
