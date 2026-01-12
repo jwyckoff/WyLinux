@@ -9,6 +9,7 @@
 - [7. Install Docker](#7-install-docker)
 - [8. Install Chrome](#8-install-chrome)
 - [9. Install XRDP](#9-install-xrdp)
+- [10. Install Powershell](#10-install-powershell)
 
 
 
